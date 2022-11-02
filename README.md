@@ -20,16 +20,29 @@ reduce it to 0 as the starting node.
 # Spectral decomposition -one iteration:
 
 **Adjacency matrix for Facebook data:** <br/>
+<img width="604" alt="Screenshot 2022-11-02 at 10 31 35 PM" src="https://user-images.githubusercontent.com/113635391/199577617-77ccbed8-0a25-454f-a4f8-27e4d00bb4d1.png">
+
 
 **Sorted Fiedler vector for the Facebook dataset:** <br/>
 
+<img width="608" alt="Screenshot 2022-11-02 at 10 32 01 PM" src="https://user-images.githubusercontent.com/113635391/199577695-a7b5d1ff-b3be-4f94-9faa-c85c674527d7.png">
+
+
 **Partitioned(after one iter) graph plotted using networkx for Facebook dataset:** <br/>
+
+<img width="621" alt="Screenshot 2022-11-02 at 10 32 10 PM" src="https://user-images.githubusercontent.com/113635391/199577731-5d03330d-cdac-42ec-9727-50096fd9836e.png">
+
+
 
 **Adjacency matrix for bitcoin dataset:** <br/>
 
+<img width="637" alt="Screenshot 2022-11-03 at 12 23 55 AM" src="https://user-images.githubusercontent.com/113635391/199577769-4d998fe7-1dca-4635-a1ba-a45d7af0cab4.png">
+
 **Sorted Fiedler vector for the bitcoin dataset:** <br/>
+<img width="630" alt="Screenshot 2022-11-03 at 12 24 05 AM" src="https://user-images.githubusercontent.com/113635391/199577802-04aa13ce-ce5a-4a55-a073-9954bfb28fba.png">
 
 **Partitioned(after one iter) graph plotted using networkx for bitcoin dataset:** <br/>
+<img width="632" alt="Screenshot 2022-11-03 at 12 24 13 AM" src="https://user-images.githubusercontent.com/113635391/199577910-40f233d7-c92d-4b09-af9a-5bfd5b009880.png">
 
 
 ```
@@ -103,15 +116,25 @@ the above is just a simplified version.
 ## Facebook dataset:<br/>
 
 **Partitioned(after recursively) graph plotted for Facebook data:** <br/>
+<img width="580" alt="Screenshot 2022-11-03 at 12 24 31 AM" src="https://user-images.githubusercontent.com/113635391/199578127-f1de8893-66e8-4967-ba15-54e8c10d79d2.png">
+
+
 
 **Clustered adjacent matrix for Facebook dataset:** <br/>
+<img width="556" alt="Screenshot 2022-11-03 at 12 24 39 AM" src="https://user-images.githubusercontent.com/113635391/199578156-6aa403dc-39a1-415e-87f2-a9ed43b7d315.png">
+
+
 
 
 ## Bitcoin Dataset:<br/>
 
 **Partitioned(after recursively) graph plotted for Bitcoin data:** <br/>
 
+<img width="700" alt="Screenshot 2022-11-03 at 12 29 27 AM" src="https://user-images.githubusercontent.com/113635391/199578630-4c59b3f4-cd8c-43d9-b7e3-5450b112db9c.png">
+
+
 **Clustered adjacent matrix for Bitcoin dataset:** <br/>
+<img width="529" alt="Screenshot 2022-11-03 at 12 29 35 AM" src="https://user-images.githubusercontent.com/113635391/199578659-c0c9c851-78ab-47bc-9a88-8d499e74999e.png">
 
 
 # Louvain algorithm:
@@ -155,8 +178,11 @@ significant effect on it.<br/>
 ## Plots obtained :<br/>
 
 **plot obtained for Louvain algorithm with the Facebook dataset:**<br/>
+<img width="552" alt="Screenshot 2022-11-03 at 12 29 44 AM" src="https://user-images.githubusercontent.com/113635391/199578712-e7b47c23-61d8-4687-8a78-802bd7dcc28c.png">
+
 
 **plot obtained for Louvain algorithm with the Bitcoin dataset:**<br/>
+<img width="620" alt="Screenshot 2022-11-03 at 12 29 53 AM" src="https://user-images.githubusercontent.com/113635391/199578798-dd602664-0159-4711-9f78-98149563b5cd.png">
 
 
 
